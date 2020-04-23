@@ -13,7 +13,7 @@ example :
 
 __timer__: start time in minutes (for 1.5 hours set to 90)
 
-__update_threshold__: how frequently updates the status
+__update_threshold__: how frequently updates the status (in minutes)
 
 __message__: message to set in the status. (use `{time}` in your message to define where it should put the remaining time)
 __token__: your discord token ([how to obtain token](https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token))
